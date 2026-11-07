@@ -333,28 +333,37 @@
    "facets": {
     "project_type": [
      "Civic + Cultural",
+     "Workplace + Commercial",
      "Memorial + Commemorative"
     ],
     "design_element": [
-     "Ground Plane + Paving"
+     "Ground Plane + Paving",
+     "Furniture"
     ],
     "cultural_expression": [
      "Public Art",
+     "Naming + Language",
      "Wayfinding + Interpretive Signage",
      "Pattern + Graphics",
+     "Artefact + Display",
      "Acknowledgement of Country"
     ],
     "dwc_themes": [
      "Truth Telling",
+     "Knowledge Systems",
      "Ceremony",
      "Gathering Place",
+     "Cultural Safety",
+     "Identity + Significant Figures",
      "Relationships + Community Involvement",
      "Cultural Fire"
     ],
     "environment": [],
     "materials": [
      "Stone",
-     "Brick"
+     "Brick",
+     "Concrete",
+     "Steel"
     ],
     "programme": [
      "Public Programs + Events",
@@ -377,14 +386,21 @@
     "gpt group",
     "good design award",
     "uncle colin hunter jnr",
-    "smoking ceremony"
+    "smoking ceremony",
+    "coolamon",
+    "bronze casting",
+    "topographic contours",
+    "yarra river rocks",
+    "courtyard",
+    "treaty context"
    ],
    "sources": [
     "Instagram, https://www.instagram.com/p/DMgvKEvz88H/",
     "Queen & Collins Ceremonial Fire Dish - Good Design, https://good-design.org/projects/queen-collins-ceremonial-fire-dish/",
     "Queen and Collins Redevelopment, Greenshoot, https://www.greenshootconsulting.com/project-queenandcollins",
     "Queen and Collins by Kerstin Thompson Architects and BVN, Architecture AU, https://architectureau.com/articles/queen-and-collins/",
-    "Queen & Collins, Open House Melbourne, https://openhousemelbourne.org/event/queen-collins/"
+    "Queen & Collins, Open House Melbourne, https://openhousemelbourne.org/event/queen-collins/",
+    "Greenaway Architects, Fire Pit Details and South Campiello Ceremonial Scene, Queen & Collins, issue July 2020"
    ],
    "greenshoot_project": true,
    "used_in": [],
@@ -400,17 +416,103 @@
      "credit": "instagram.com",
      "source_url": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-15/523029281_18071419835492204_1455294940378058737_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jABIRq0YwqkQ7kNvwEpnAdx&_nc_oc=AdotpZYQe_OIaIxdsLlO_XnhDutV2laXGMK73oOaFyzjKqU0KlyMmLkLZhe3sLxxLfo&_nc_zt=23&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_gid=lBZ6jNQ0U21NV6u9MuvA8w&_nc_ss=7ba8c&oh=00_AQRSvKbSV6h_Kk5eeGP34QJM0r1_5RBFeEWX2xgcKvwqEg&oe=6AF4FFE6",
      "primary": true
+    },
+    {
+     "id": "img_mw6hlm6999d82f",
+     "key": "up/img_mw6hlm6999d82f.jpg",
+     "thumb_key": "up/img_mw6hlm6999d82f_t.jpg",
+     "image_type": "Photo",
+     "caption": "Smoking ceremony at the fire dish, led by Uncle Colin Hunter, with eucalypt leaves in the dish",
+     "credit": "Good Design",
+     "source_url": "https://sgp1.digitaloceanspaces.com/cdn.yournet.space/wp-content/good-design.org/2023/09/08174433/Image1-313-scaled.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6hlr1wb22268",
+     "key": "up/img_mw6hlr1wb22268.jpg",
+     "thumb_key": "up/img_mw6hlr1wb22268_t.jpg",
+     "image_type": "Photo",
+     "caption": "Smoking ceremony at the fire dish, smoke rising from the dish (second view)",
+     "credit": "Good Design",
+     "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image1.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6hlwoj1b10ce",
+     "key": "up/img_mw6hlwoj1b10ce.jpg",
+     "thumb_key": "up/img_mw6hlwoj1b10ce_t.jpg",
+     "image_type": "Photo",
+     "caption": "Fire dish in the courtyard with etched topographic surface, heritage stained glass window and seating behind",
+     "credit": "Good Design",
+     "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image2.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6hm1ir249680",
+     "key": "up/img_mw6hm1ir249680.jpg",
+     "thumb_key": "up/img_mw6hm1ir249680_t.jpg",
+     "image_type": "Detail",
+     "caption": "Bronze text strips set into the granite top, including 'Yarra Yarra Falls natural crossing point' and 'Site of first recorded Aboriginal burial'",
+     "credit": "Good Design",
+     "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image3.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6hm64575ccbd",
+     "key": "up/img_mw6hm64575ccbd.jpg",
+     "thumb_key": "up/img_mw6hm64575ccbd_t.jpg",
+     "image_type": "Photo",
+     "caption": "Fire dish in the courtyard with etched topographic surface, heritage stained glass window and seating behind (repeat view)",
+     "credit": "Good Design",
+     "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image6.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6hmay8c38f09",
+     "key": "up/img_mw6hmay8c38f09.jpg",
+     "thumb_key": "up/img_mw6hmay8c38f09_t.jpg",
+     "image_type": "Detail",
+     "caption": "Bronze dish being finished in the workshop, showing etched contours, relief and perforations",
+     "credit": "Good Design",
+     "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image8.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6hmdfzfcb85d",
+     "key": "up/img_mw6hmdfzfcb85d.jpg",
+     "thumb_key": "up/img_mw6hmdfzfcb85d_t.jpg",
+     "image_type": "Diagram",
+     "caption": "Fire Pit Details drawing: dish, Yarra River rocks, wayfinding strips and lowered 600 mm planter",
+     "credit": "Greenaway Architects",
+     "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image4.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6hmgt1ccb505",
+     "key": "up/img_mw6hmgt1ccb505.jpg",
+     "thumb_key": "up/img_mw6hmgt1ccb505_t.jpg",
+     "image_type": "Render",
+     "caption": "Proposed ceremonial scene of the fire pit in the South Campiello courtyard",
+     "credit": "Greenaway Architects",
+     "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image5.jpg",
+     "primary": false
     }
    ],
    "added_by": "Ed",
    "approved_by": "Ed",
    "added": "2026-11-07",
    "updated": "2026-11-07",
+   "edited_by": "Ed",
    "history": [
     {
      "date": "2026-11-07",
      "by": "Ed",
      "what": "added (sent by Ed)"
+    },
+    {
+     "date": "2026-11-07",
+     "by": "Ed",
+     "what": "updated from inbox (sent by Ed)"
     }
    ]
   }
