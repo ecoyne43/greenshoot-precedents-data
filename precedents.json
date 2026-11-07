@@ -192,7 +192,7 @@
   },
   {
    "id": "PR-0002",
-   "name": "Aunty Annie Borate digital portrait display (Celebrating Wurundjeri Women)",
+   "name": "Celebrating Wurundjeri Women - Franklin Street Panels",
    "also_known_as": "",
    "location_text": "Melbourne CBD, Melbourne VIC (exact street not confirmed)",
    "city": "Melbourne",
@@ -289,11 +289,17 @@
    "approved_by": "Ed",
    "added": "2026-11-07",
    "updated": "2026-11-07",
+   "edited_by": "Ed",
    "history": [
     {
      "date": "2026-11-07",
      "by": "Ed",
      "what": "added (sent by Ed)"
+    },
+    {
+     "date": "2026-11-07",
+     "by": "Ed",
+     "what": "edited"
     }
    ]
   }
