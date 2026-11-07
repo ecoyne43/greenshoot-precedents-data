@@ -1,3 +1,194 @@
 {
- "records": []
+ "records": [
+  {
+   "id": "PR-0001",
+   "name": "City Square Ceremonial Gathering Space",
+   "also_known_as": "",
+   "location_text": "City Square, Melbourne VIC",
+   "city": "Melbourne",
+   "state": "Victoria",
+   "country": "Australia",
+   "country_to": "Wurundjeri",
+   "year_completed": "2025",
+   "architect": "",
+   "landscape_architect": "",
+   "artists": "Lewis Wandin-Bursill (Wurundjeri artist), who developed the Woi-wurrung language and etched designs on the seating, drawing on the diamond motif of his ancestor William Barak; a Wurundjeri Elder (name not given) provided the manna gum leaf sketch",
+   "first_peoples_collaborators": "Greenshoot Consulting (co-designer); Aunty Joy Wandin Murphy and other Wurundjeri Elders; representatives of Wurundjeri Woi-wurrung Cultural Heritage Aboriginal Corporation; Lewis Wandin-Bursill (Wurundjeri artist)",
+   "client": "Victorian Infrastructure Delivery Authority (Metro Tunnel Project)",
+   "other_team": "Cross Yarra Partnership (Lendlease, Bouygues Construction, John Holland; design and construction joint venture that engaged Greenshoot for Traditional Owner engagement); Sculpture Co. (fabricator of the Smoking Ceremony Dish); Hassell, Rogers Stirk Harbour + Partners and Weston Williamson + Partners (architects of Town Hall Station; Hassell also landscape design for the wider station and square); ",
+   "awards": "2026 Australian Good Design Awards: Best in Discipline Award, Built Environment (Place Design category)",
+   "summary": "A ceremonial gathering space within Melbourne's new City Square, co-designed by Greenshoot Consulting with Wurundjeri Elders. A central circular granite paved area has Woi-wurrung language set into the ground plane, a semi-circular granite seat etched with a diamond motif, and a rotating, lockable bronze Smoking Ceremony Dish on a stone plinth. Planting was selected in consultation with Wurundjeri Elders. The space supports formal ceremony and informal yarning.",
+   "why_it_matters": "It shows how a ceremonial element can be added to an already resolved public realm while meeting operational constraints such as circulation, train station operations and smoke management. The lockable, rotating dish and the use of Elder-authored motifs are useful references for durable, culturally authored detailing.",
+   "description": "The project is a ceremonial gathering place within Melbourne's new City Square, co-designed by Greenshoot Consulting with Wurundjeri Elders. It was commissioned after the square's design documentation was complete, so it had to fit into a resolved public realm. It sits centrally, keeps pedestrian movement and event flexibility, and needed endorsement from Traditional Owners, State Government, City of Melbourne and MTM. Early coordination dealt with circulation, train station operations and smoke management. The main element is a bronze Smoking Ceremony Dish on a granite plinth sourced from Country. The dish is rotating and lockable, balancing safety, durability and ceremonial expression. A manna gum leaf motif is embossed on the dish and etched into the plinth, taken from a sketch by a Wurundjeri Elder. A pattern inside the dish references the manna gum flower. Woi-wurrung language is set into a bespoke circular paving pattern that differs from the rest of the plaza. Semi-circular granite seating carries etched artwork by a Wurundjeri artist, drawing on William Barak's diamond motif. Planting was selected in consultation with Wurundjeri Elders, and interpretive signage supports public learning. The bronze is designed to patinate with use and touch. The space accommodates formal ceremony and informal yarning.",
+   "status": "Built",
+   "scale": "Precinct",
+   "facets": {
+    "project_type": [
+     "Civic + Cultural",
+     "Park + Open Space",
+     "Streetscape + Urban Design"
+    ],
+    "design_element": [
+     "Ground Plane + Paving",
+     "Furniture",
+     "Planting"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Naming + Language",
+     "Wayfinding + Interpretive Signage",
+     "Pattern + Graphics",
+     "Performance"
+    ],
+    "dwc_themes": [
+     "Truth Telling",
+     "Knowledge Systems",
+     "Ceremony",
+     "Gathering Place",
+     "Identity + Significant Figures",
+     "Relationships + Community Involvement",
+     "Cultural Fire"
+    ],
+    "environment": [
+     "Flora + Fauna + Habitat"
+    ],
+    "materials": [
+     "Stone",
+     "Steel"
+    ],
+    "programme": [
+     "Public Programs + Events",
+     "Ceremony Space"
+    ],
+    "involvement": [
+     "Co-designed with Traditional Owners",
+     "First Peoples artist commission"
+    ]
+   },
+   "tags": [
+    "smoking ceremony",
+    "bronze dish",
+    "woi-wurrung language",
+    "manna gum",
+    "diamond motif",
+    "granite",
+    "william barak",
+    "train station plaza",
+    "metro tunnel",
+    "town hall station",
+    "lewis wandin-bursill",
+    "sculpture co",
+    "cross yarra partnership",
+    "good design awards 2026",
+    "bronze"
+   ],
+   "sources": [
+    "City Square Ceremonial Gathering Space - Good Design, https://good-design.org/projects/city-square-ceremonial-gathering-space/",
+    "Smoking Ceremonies, https://bigbuild.vic.gov.au/use-metro-tunnel/stations/town-hall/design/smoking-ceremonies-cleansing-connection-and-culture",
+    "Greenshoot Consulting - Smoking Ceremony Dish, Sculpture Co., https://www.sculptureco.net/greenshoot-consulting-smoking-ceremony-dish",
+    "City Square, Melbourne, https://en.wikipedia.org/wiki/City_Square,_Melbourne",
+    "Winners of the 2026 Australian Good Design Awards revealed, https://architectureau.com/articles/winners-of-the-2026-australian-good-design-awards-revealed/",
+    "Melbourne Metro Tunnel by Hassell, Weston Williamson and Partners, and Rogers Stirk Harbour and Partners, https://architectureau.com/articles/melbourne-metro-tunnel-by-hassell-weston-williamson-and-partners-and-rogers-stirk-harbour-and-partners/",
+    "Melbourne moves forward: Metro Tunnel opens and City Square returns, https://www.melbourne.vic.gov.au/news/city-square-returns",
+    "CURRENT PROJECTS, Greenshoot Consulting, https://www.greenshootconsulting.com/current-projects/"
+   ],
+   "greenshoot_project": true,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mw6bbeqw59a8e3",
+     "key": "up/img_mw6bbeqw59a8e3.jpg",
+     "thumb_key": "up/img_mw6bbeqw59a8e3_t.jpg",
+     "image_type": "Photo",
+     "caption": "Semi-circular granite seat and central bronze dish on plinth, with planting and the wider City Square plaza behind",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/2026/10/1-496.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6bbit2312dfc",
+     "key": "up/img_mw6bbit2312dfc.jpg",
+     "thumb_key": "up/img_mw6bbit2312dfc_t.jpg",
+     "image_type": "Photo",
+     "caption": "Smoking ceremony dish on granite plinth within concentric paving rings carrying Woi-wurrung text",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2026/10601/4.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6bblgp944439",
+     "key": "up/img_mw6bblgp944439.jpg",
+     "thumb_key": "up/img_mw6bblgp944439_t.jpg",
+     "image_type": "Photo",
+     "caption": "Circular paved space with the dish, text ring and seat etched with diamond motif, backed by planting and a painted hoarding",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2026/10601/2.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6bbp7n7663c3",
+     "key": "up/img_mw6bbp7n7663c3.jpg",
+     "thumb_key": "up/img_mw6bbp7n7663c3_t.jpg",
+     "image_type": "Photo",
+     "caption": "Low view across the granite seat to the dish, language ring and diamond-etched seat ends",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2026/10601/3.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6bbs8i195dd9",
+     "key": "up/img_mw6bbs8i195dd9.jpg",
+     "thumb_key": "up/img_mw6bbs8i195dd9_t.jpg",
+     "image_type": "Detail",
+     "caption": "Bronze dish lid embossed with manna gum leaf motif, on the granite plinth",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2026/10601/5.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6bbv1038806a",
+     "key": "up/img_mw6bbv1038806a.jpg",
+     "thumb_key": "up/img_mw6bbv1038806a_t.jpg",
+     "image_type": "Photo",
+     "caption": "Smoking ceremony in progress at the dish, with a large gathered audience",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2026/10601/6.jpg",
+     "primary": true
+    },
+    {
+     "id": "img_mw6bbxpn2116a1",
+     "key": "up/img_mw6bbxpn2116a1.jpg",
+     "thumb_key": "up/img_mw6bbxpn2116a1_t.jpg",
+     "image_type": "Detail",
+     "caption": "Fire lit in the open dish, showing the flower pattern cast into the dish surface",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2026/10601/7.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw6bc14z35efff",
+     "key": "up/img_mw6bc14z35efff.jpg",
+     "thumb_key": "up/img_mw6bc14z35efff_t.jpg",
+     "image_type": "Detail",
+     "caption": "Cultural objects, possum skin and gum leaves laid on the granite seat with etched diamond pattern",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2026/10601/8.jpg",
+     "primary": false
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-07",
+   "updated": "2026-11-07",
+   "history": [
+    {
+     "date": "2026-11-07",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
+  }
+ ]
 }
