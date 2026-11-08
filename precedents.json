@@ -288,7 +288,7 @@
    "added_by": "Ed",
    "approved_by": "Ed",
    "added": "2026-11-07",
-   "updated": "2026-11-07",
+   "updated": "2026-11-08",
    "edited_by": "Ed",
    "history": [
     {
@@ -305,6 +305,11 @@
      "date": "2026-11-07",
      "by": "Ed",
      "what": "edited"
+    },
+    {
+     "date": "2026-11-08",
+     "by": "Ed",
+     "what": "updated from inbox (sent by Ed)"
     }
    ]
   },
