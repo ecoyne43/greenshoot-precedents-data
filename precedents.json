@@ -565,6 +565,200 @@
      "what": "updated from inbox (sent by Ed)"
     }
    ]
+  },
+  {
+   "id": "PR-0004",
+   "name": "Northcote Aquatic and Recreation Centre Cultural Codesign",
+   "also_known_as": "Northcote Aquatic and Recreation Centre (NARC) kingfisher facade",
+   "location_text": "Northcote Aquatic and Recreation Centre, 180 Victoria Road, Northcote VIC",
+   "city": "Northcote",
+   "state": "VIC",
+   "country": "Australia",
+   "country_to": "Wurundjeri Woi-wurrung",
+   "year_completed": "2023",
+   "architect": "Warren and Mahoney (WAM)",
+   "landscape_architect": "Arcadia Landscape Architecture",
+   "artists": "",
+   "first_peoples_collaborators": "Aunty Joy Murphy (Wurundjeri Elder), Uncle Colin Hunter (Wurundjeri), Craig Murphy (Wurundjeri), Greenshoot Consulting (cultural codesign), Wurundjeri Woi Wurrung Cultural Heritage Aboriginal Corporation (Traditional Owner group, consulted on facility and landscape design)",
+   "client": "Darebin City Council (City of Darebin)",
+   "other_team": "Brett Diprose, Warren and Mahoney (project architect); Greenaway Architects (assisted Traditional Owner consultation); Kane Constructions (builder); Taylor Thomson Whitting (structural and civil engineer); Arup (environmental consultant); Crackerjack Consulting Engineers (aquatic design); Introba (building services); Normark Landscapes (landscape contractor); Rubner (timber structure); Klay Tiles ",
+   "awards": "",
+   "summary": "Cultural codesign for the new Northcote Aquatic and Recreation Centre in Northcote, Victoria, designed by WAM. Greenshoot Consulting worked with Wurundjeri Elders to embed three interventions: a three by five metre Sacred Kingfisher in flight on the Victoria Road facade, made from coloured metal rods; water ribbon patterning in the splash pad; and a cultural gathering space for yarning and cultural practice.",
+   "why_it_matters": "It shows Elders directing how cultural knowledge is translated into a facade artwork, floor patterning and a gathering space within a public aquatic centre. The kingfisher links Wurundjeri knowledge of pristine waterways to the building's sustainability aims.",
+   "description": "The Northcote Aquatic and Recreation Centre was delivered during Treaty discussions, with the aim of setting a benchmark in culturally responsive design. Greenshoot Consulting codesigned interventions with Aunty Joy Murphy, Uncle Colin Hunter and Craig Murphy (Wurundjeri), working with the lead design team, WAM. The Elders directed how cultural knowledge was reflected in the design. Three elements resulted. First, a Sacred Kingfisher on the main street facade, drawn from Wurundjeri knowledge that the kingfisher only returns to pristine waterways. It represents the environmental initiatives in the building and the pool water filtration systems. The bird is formed from metal rods of three lengths, giving depth and casting shadows that change through the day on the western facade. The rods are teal blue, black and ochre, the kingfisher's main colours. The bird is shown in flight to reflect its seasonal migratory nature. The installation is three metres high and five metres wide. Second, water ribbon inspired patterning in the water play splash pad, reflecting water systems near the site. Third, a cultural gathering space for yarning and cultural practice, returning a practice that existed in the region before colonisation. In the courtyard, a boulder sits among curved timber seats on exposed aggregate paving.",
+   "status": "Built",
+   "scale": "Building",
+   "facets": {
+    "project_type": [
+     "Civic + Cultural",
+     "Sport + Stadium"
+    ],
+    "design_element": [
+     "Facade",
+     "Ground Plane + Paving",
+     "Furniture",
+     "Entry + Threshold"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Wayfinding + Interpretive Signage",
+     "Pattern + Graphics"
+    ],
+    "dwc_themes": [
+     "Caring for Country",
+     "Truth Telling",
+     "Knowledge Systems",
+     "Ceremony",
+     "Gathering Place",
+     "Cultural Safety",
+     "Identity + Significant Figures",
+     "Relationships + Community Involvement",
+     "Cultural Fire"
+    ],
+    "environment": [
+     "WSUD",
+     "Flora + Fauna + Habitat",
+     "Sustainable Design"
+    ],
+    "materials": [
+     "Timber",
+     "Stone",
+     "Brick",
+     "Concrete",
+     "Steel"
+    ],
+    "programme": [
+     "Public Programs + Events",
+     "Sport",
+     "Ceremony Space"
+    ],
+    "involvement": [
+     "Co-designed with Traditional Owners"
+    ]
+   },
+   "tags": [
+    "sacred kingfisher",
+    "yarning space",
+    "splash pad",
+    "water ribbon pattern",
+    "aquatic centre",
+    "treaty",
+    "metal rods",
+    "shadow",
+    "warren and mahoney",
+    "darebin",
+    "wurundjeri woi wurrung",
+    "arcadia landscape architecture"
+   ],
+   "sources": [
+    "Northcote Aquatic and Recreation Centre Cultural Codesign - Good Design, https://good-design.org/projects/northcote-aquatic-and-recreation-centre-cultural-codesign/",
+    "Northcote Aquatic and Recreation Centre, CASBE, https://www.casbe.org.au/casestudies/northcote-aquatic-and-recreation-centre/",
+    "Northcote Aquatic Recreation Centre, WAM, https://wam.studio/work/northcote-aquatic-recreation-centre",
+    "Northcote Aquatic and Recreation Centre - VPDA, https://premiersdesignawards.vic.gov.au/entries/2024/architectural-design/northcote-aquatic-and-recreation-centre",
+    "Construction Award Announcement, https://yoursay.darebin.vic.gov.au/NARC/construction-award-announcement",
+    "NARC's official opening and community day, https://www.darebin.vic.gov.au/About-Council/News-and-Media/News/Northcote-Aquatic-and-Recreation-Centre-to-officially-open-on-Monday-13-November",
+    "Northcote Aquatic and Recreation Centre sets pace for future community leisure hubs, https://wam.studio/news/NARC-sets-pace",
+    "Northcote Aquatic and Recreation Centre - TTW, https://www.ttwengineers.com/au/projects/northcote-aquatic-and-recreation-centre/",
+    "Aquatic and Recreation Centre, Northcote - Rubner, https://www.rubner.com/en/references/timber-construction/aquatic-and-recreation-centre-northcote/",
+    "Northcote Aquatic and Recreation Centre, Greenshoot, https://www.greenshootconsulting.com/project-northcote-arc"
+   ],
+   "greenshoot_project": true,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mw85lo9u168ffe",
+     "key": "up/img_mw85lo9u168ffe.jpg",
+     "thumb_key": "up/img_mw85lo9u168ffe_t.jpg",
+     "image_type": "Photo",
+     "caption": "Kingfisher of coloured metal rods on the brick facade, with the centre's glazed bays and landscaped edge at dusk",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/2025/10/1-246-scaled.jpg",
+     "primary": true
+    },
+    {
+     "id": "img_mw85lpq1e71e7c",
+     "key": "up/img_mw85lpq1e71e7c.jpg",
+     "thumb_key": "up/img_mw85lpq1e71e7c_t.jpg",
+     "image_type": "Diagram",
+     "caption": "Pen sketches of a kingfisher in flight and perched, used to develop the facade image",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/6.JPG",
+     "primary": false
+    },
+    {
+     "id": "img_mw85lqtb3d62f5",
+     "key": "up/img_mw85lqtb3d62f5.jpg",
+     "thumb_key": "up/img_mw85lqtb3d62f5_t.jpg",
+     "image_type": "Photo",
+     "caption": "Kingfisher installation and street facade of the centre at dusk",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/1.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw85lrz1402e4b",
+     "key": "up/img_mw85lrz1402e4b.jpg",
+     "thumb_key": "up/img_mw85lrz1402e4b_t.jpg",
+     "image_type": "Photo",
+     "caption": "Kingfisher in flight in teal blue, black and ochre rods, with shadows cast on the brick wall",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/2.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw85lsw614c5ab",
+     "key": "up/img_mw85lsw614c5ab.jpg",
+     "thumb_key": "up/img_mw85lsw614c5ab_t.jpg",
+     "image_type": "Photo",
+     "caption": "Courtyard with a boulder, curved timber seats and exposed aggregate paving",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/3.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw85ltuad8ea88",
+     "key": "up/img_mw85ltuad8ea88.jpg",
+     "thumb_key": "up/img_mw85ltuad8ea88_t.jpg",
+     "image_type": "Photo",
+     "caption": "Water play area with slide and spray hoops over floor patterning in greens and teal, under a timber ceiling",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/4.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw85lur74cdd3c",
+     "key": "up/img_mw85lur74cdd3c.jpg",
+     "thumb_key": "up/img_mw85lur74cdd3c_t.jpg",
+     "image_type": "Render",
+     "caption": "Elevation of the kingfisher rod layout in teal, black and ochre on the brick wall",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/7.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mw85lvwx7dcf8d",
+     "key": "up/img_mw85lvwx7dcf8d.jpg",
+     "thumb_key": "up/img_mw85lvwx7dcf8d_t.jpg",
+     "image_type": "Diagram",
+     "caption": "Collection of kingfisher pen sketches in perched and flying poses",
+     "credit": "Good Design",
+     "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/5.jpg",
+     "primary": false
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-08",
+   "updated": "2026-11-08",
+   "history": [
+    {
+     "date": "2026-11-08",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
