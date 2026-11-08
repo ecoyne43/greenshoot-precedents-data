@@ -773,13 +773,13 @@
    "architect": "Jefa Greenaway (Wailwan/Kamilaroi man), in partnership with Greenshoot Consulting",
    "landscape_architect": "",
    "artists": "",
-   "first_peoples_collaborators": "Greenshoot Consulting; Jefa Greenaway (Wailwan/Kamilaroi); Traditional Owners of the land on which the Club resides (consulted); Wurundjeri, Bunurong and Boon Wurrung Elders (workshops for the wider redevelopment); Thane Garvey (Wurundjeri man, led the smoking ceremony)",
+   "first_peoples_collaborators": "Greenshoot Consulting (cultural and historical mapping, Traditional Owner engagement); Jefa Greenaway (Wailwan/Kamilaroi); Traditional Owners of the land on which the Club resides (consulted); Wurundjeri, Bunurong and Boon Wurrung Elders (workshops for the wider redevelopment); Thane Garvey (Wurundjeri man, led the smoking ceremony)",
    "client": "Western Bulldogs Football Club",
    "other_team": "Populous (architect and design management, Whitten Oval redevelopment); Urbis (landscape architect, Whitten Oval redevelopment); Aurecon (structural, civil and services engineering, redevelopment); ADCO Constructions (main works builder, redevelopment)",
    "awards": "",
    "summary": "The Mission Whitten Oval Yarning Circle is an outdoor gathering space for players and staff at the Western Bulldogs' home ground in Footscray, Melbourne. It was created during the Oval's redevelopment, with Greenshoot Consulting and Jefa Greenaway engaged to guide cultural design. Key moves include a bluestone floor referencing the former quarry, a central map of Blue Lake with bronze inlays of First Nations sites, a metal strip for the Maribyrnong River, and boomerang-form hardwood posts and seating.",
-   "why_it_matters": "It shows how Traditional Owner consultation can lead to a dedicated, culturally safe gathering space inside a sporting facility, with ceremony such as Welcome to Country built into the brief. The material, map and form choices tie the design to local geology, waterways and history.",
-   "description": "The Western Bulldogs Football Club announced the opening of the Mission Whitten Oval Yarning Circle on 18 May 2026. Consultation with the Traditional Owners of the land on which the Club resides highlighted the need for dedicated outdoor spaces where players and staff can gather and yarn. These spaces were identified as important for connection, support networks and cultural safety across the Club. As part of the recent redevelopment of Mission Whitten Oval, the Club engaged Greenshoot Consulting in partnership with Jefa Greenaway to identify ways the facility could recognise and celebrate the First Nations community. The circle also provides space for Traditional Owners to hold ceremonies such as Welcome to Country for new players and staff, as well as the public. The floor is bluestone, acknowledging that Whitten Oval sits on a former bluestone quarry. A map at the centre is shaped to represent Blue Lake, the initial name for the Footscray area. It carries an inscription of the Blue Lake area and bronze inlays marking significant local First Nations sites. A metal strip running through the ground represents the Maribyrnong River and the importance of waterways. Upright hardwood posts reference the boomerang form, which is repeated in the seating. The circle was officially opened during Sir Doug Nicholls Round, with the whole Club taking part in a smoking ceremony led by Wurundjeri man Thane Garvey.",
+   "why_it_matters": "It shows how Traditional Owner consultation can lead to a dedicated, culturally safe gathering space inside a sporting facility, with ceremony such as Welcome to Country built into the brief. The material, map and form choices tie the design to local geology, waterways and history. The engagement was staged: desktop research on site and club history, preliminary cultural themes, then Elder workshops across several Traditional Owner groups. This is a useful model for multi-group consultation on a sporting venue.",
+   "description": "The Western Bulldogs Football Club announced the opening of the Mission Whitten Oval Yarning Circle on 18 May 2026. Consultation with the Traditional Owners of the land on which the Club resides highlighted the need for dedicated outdoor spaces where players and staff can gather and yarn. These spaces were identified as important for connection, support networks and cultural safety across the Club. As part of the recent redevelopment of Mission Whitten Oval, the Club engaged Greenshoot Consulting in partnership with Jefa Greenaway to identify ways the facility could recognise and celebrate the First Nations community. The oval sits on the traditional, unceded lands of the Woiwurrung Wurundjeri and Boon wurrung language groups of the Kulin Nation. The Club saw the redevelopment as an opportunity to amplify First Peoples' connection to the site and to set a benchmark in First Peoples engagement and design. Greenshoot carried out cultural and historical mapping, researching the site's pre-colonisation history, important First Peoples figures in the Club and moments in its recent history. It then prepared documentation setting out preliminary cultural themes to inform consultation with Wurundjeri, Bunurong and Boon Wurrung stakeholders. Greenshoot facilitated workshops with Elders from the three Traditional Owner groups, and with key First Peoples stakeholders, to expand on these themes and explore the site using its First Peoples Design Consultation Pillars. The circle also provides space for Traditional Owners to hold ceremonies such as Welcome to Country for new players and staff, as well as the public. The floor is bluestone, acknowledging that Whitten Oval sits on a former bluestone quarry. A map at the centre is shaped to represent Blue Lake, the initial name for the Footscray area. It carries an inscription of the Blue Lake area and bronze inlays marking significant local First Nations sites. A metal strip running through the ground represents the Maribyrnong River and the importance of waterways. Upright hardwood posts reference the boomerang form, which is repeated in the seating. The circle was officially opened during Sir Doug Nicholls Round, with the whole Club taking part in a smoking ceremony led by Wurundjeri man Thane Garvey.",
    "status": "Built",
    "scale": "Precinct",
    "facets": {
@@ -800,6 +800,7 @@
      "Ceremony",
      "Gathering Place",
      "Cultural Safety",
+     "Identity + Significant Figures",
      "Relationships + Community Involvement",
      "Cultural Fire"
     ],
@@ -833,13 +834,18 @@
     "sir doug nicholls round",
     "kulin nation",
     "wurundjeri",
-    "greenaway architecture"
+    "greenaway architecture",
+    "cultural mapping",
+    "elder workshops",
+    "traditional owner engagement",
+    "consultation pillars"
    ],
    "sources": [
     "Western Bulldogs open Yarning Circle, https://www.westernbulldogs.com.au/news/2026100/western-bulldogs-open-yarning-circle",
     "Whitten Oval Redevelopment FAQs, https://www.westernbulldogs.com.au/redevelopment/whitten-oval-redevelopment-faqs",
     "Western Bulldogs Whitten Oval Redevelopment, Greenshoot, https://www.greenshootconsulting.com/project-whitten-oval",
-    "Western Bulldogs Whitten Oval, https://populous.com/projects/western-bulldogs-whitten-oval"
+    "Western Bulldogs Whitten Oval, https://populous.com/projects/western-bulldogs-whitten-oval",
+    "Greenshoot project text on Whitten Oval cultural and historical mapping and engagement (screenshot supplied by sender, no url)"
    ],
    "greenshoot_project": true,
    "used_in": [],
@@ -861,11 +867,17 @@
    "approved_by": "Ed",
    "added": "2026-11-08",
    "updated": "2026-11-08",
+   "edited_by": "Ed",
    "history": [
     {
      "date": "2026-11-08",
      "by": "Ed",
      "what": "added (sent by Ed)"
+    },
+    {
+     "date": "2026-11-08",
+     "by": "Ed",
+     "what": "updated from inbox (sent by Ed)"
     }
    ]
   }
