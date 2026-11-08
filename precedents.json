@@ -880,6 +880,101 @@
      "what": "updated from inbox (sent by Ed)"
     }
    ]
+  },
+  {
+   "id": "PR-0006",
+   "name": "Marvel Stadium Upgrade",
+   "also_known_as": "",
+   "location_text": "Marvel Stadium, Docklands, Melbourne VIC",
+   "city": "Melbourne",
+   "state": "Victoria",
+   "country": "Australia",
+   "country_to": "Wurundjeri Woi-wurrung",
+   "year_completed": "2022",
+   "architect": "Grimshaw",
+   "landscape_architect": "OCULUS",
+   "artists": "",
+   "first_peoples_collaborators": "Greenshoot Consulting (First Peoples engagement and codesign); Wurundjeri Elders including Uncle Colin Hunter Jnr and Aunty Joy Murphy Wandin; Elders representing the three Traditional Owner groups",
+   "client": "Development Victoria",
+   "other_team": "",
+   "awards": "",
+   "summary": "The Marvel Stadium upgrade in Melbourne, led by architect Grimshaw for Development Victoria and completed in 2022, embedded First Peoples cultural expression in the new precinct. Greenshoot Consulting engaged Elders from the three Traditional Owner groups and codesigned elements with Wurundjeri Elders. These include ground plane treatment at the new entry points, column design within those entries, and a ceiling design at the City Edge location, with further art opportunities for First Peoples artists identified.",
+   "why_it_matters": "It shows how a structured engagement program can turn Elders' priorities into specific architectural and landscape elements on a large commercial precinct. The ceiling and column elements are useful references for embedding cultural expression in major built fabric, with art commissions left open for First Peoples artists.",
+   "description": "The Marvel Stadium upgrade, completed in 2022, created an opportunity to embed First Peoples-led design and cultural expression into the new precinct. The client was Development Victoria and the lead architect was Grimshaw. Greenshoot Consulting ran a program of engagement with Elders representing the three Traditional Owner groups, using Greenshoot's First Peoples Design Consultation Pillars. This allowed opportunities identified by Traditional Owners to be mapped across Narrative, Design and Activation domains, to support the embedding of Traditional Owner knowledge and culture in the redevelopment. Through engagement with Wurundjeri Elders, including Uncle Colin Hunter Jnr and Aunty Joy Murphy Wandin, Greenshoot codesigned various elements within the architecture and landscape. These opportunities developed within the City Edge and Town Square locations: the ground plane treatment at the new entry points, column design within those entry points, and a ceiling design at the City Edge location. The site photo shows a perforated metal ceiling with a large dark figure formed by the perforation pattern, with a line of linked points and light fittings across it. Wurundjeri Elders also identified further art opportunities for First Peoples artists within the column design, to tell stories of Wurundjeri culture and Country.",
+   "status": "Built",
+   "scale": "Precinct",
+   "facets": {
+    "project_type": [
+     "Civic + Cultural",
+     "Sport + Stadium"
+    ],
+    "design_element": [
+     "Roof + Ceiling + Soffit",
+     "Interior",
+     "Ground Plane + Paving",
+     "Entry + Threshold",
+     "Lighting"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Pattern + Graphics"
+    ],
+    "dwc_themes": [
+     "Knowledge Systems",
+     "Identity + Significant Figures",
+     "Relationships + Community Involvement"
+    ],
+    "environment": [],
+    "materials": [
+     "Steel"
+    ],
+    "programme": [
+     "Public Programs + Events",
+     "Sport"
+    ],
+    "involvement": [
+     "First Peoples-led design",
+     "Co-designed with Traditional Owners"
+    ]
+   },
+   "tags": [
+    "perforated ceiling",
+    "city edge",
+    "town square",
+    "entry columns",
+    "elders engagement",
+    "design consultation pillars"
+   ],
+   "sources": [
+    "Marvel Stadium Upgrade, Greenshoot, https://www.greenshootconsulting.com/project-marvel-stadium"
+   ],
+   "greenshoot_project": true,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mw8b1rddcdae89",
+     "key": "up/img_mw8b1rddcdae89.jpg",
+     "thumb_key": "up/img_mw8b1rddcdae89_t.jpg",
+     "image_type": "Photo",
+     "caption": "Perforated metal ceiling at the City Edge with a large dark figure formed by the pattern and a line of linked points, beside a perforated column and glazed facade",
+     "credit": "Greenshoot",
+     "source_url": "https://images.squarespace-cdn.com/content/v1/68007f63892ab9404ccf752e/b524145b-4006-4fa3-8c0c-ccc7fac4cde3/bunjil1lr.jpg?format=2500w",
+     "primary": true
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-08",
+   "updated": "2026-11-08",
+   "history": [
+    {
+     "date": "2026-11-08",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
