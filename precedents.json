@@ -759,6 +759,115 @@
      "what": "added (sent by Ed)"
     }
    ]
+  },
+  {
+   "id": "PR-0005",
+   "name": "Mission Whitten Oval Yarning Circle",
+   "also_known_as": "Western Bulldogs Yarning Circle",
+   "location_text": "Mission Whitten Oval (Whitten Oval), Footscray VIC",
+   "city": "Footscray",
+   "state": "VIC",
+   "country": "Australia",
+   "country_to": "Kulin Nation (Wurundjeri, Bunurong and Boon Wurrung Traditional Owners named for the wider Whitten Oval redevelopment; Wurundjeri man Thane Garvey led the opening smoking ceremony)",
+   "year_completed": "2026",
+   "architect": "Jefa Greenaway (Wailwan/Kamilaroi man), in partnership with Greenshoot Consulting",
+   "landscape_architect": "",
+   "artists": "",
+   "first_peoples_collaborators": "Greenshoot Consulting; Jefa Greenaway (Wailwan/Kamilaroi); Traditional Owners of the land on which the Club resides (consulted); Wurundjeri, Bunurong and Boon Wurrung Elders (workshops for the wider redevelopment); Thane Garvey (Wurundjeri man, led the smoking ceremony)",
+   "client": "Western Bulldogs Football Club",
+   "other_team": "Populous (architect and design management, Whitten Oval redevelopment); Urbis (landscape architect, Whitten Oval redevelopment); Aurecon (structural, civil and services engineering, redevelopment); ADCO Constructions (main works builder, redevelopment)",
+   "awards": "",
+   "summary": "The Mission Whitten Oval Yarning Circle is an outdoor gathering space for players and staff at the Western Bulldogs' home ground in Footscray, Melbourne. It was created during the Oval's redevelopment, with Greenshoot Consulting and Jefa Greenaway engaged to guide cultural design. Key moves include a bluestone floor referencing the former quarry, a central map of Blue Lake with bronze inlays of First Nations sites, a metal strip for the Maribyrnong River, and boomerang-form hardwood posts and seating.",
+   "why_it_matters": "It shows how Traditional Owner consultation can lead to a dedicated, culturally safe gathering space inside a sporting facility, with ceremony such as Welcome to Country built into the brief. The material, map and form choices tie the design to local geology, waterways and history.",
+   "description": "The Western Bulldogs Football Club announced the opening of the Mission Whitten Oval Yarning Circle on 18 May 2026. Consultation with the Traditional Owners of the land on which the Club resides highlighted the need for dedicated outdoor spaces where players and staff can gather and yarn. These spaces were identified as important for connection, support networks and cultural safety across the Club. As part of the recent redevelopment of Mission Whitten Oval, the Club engaged Greenshoot Consulting in partnership with Jefa Greenaway to identify ways the facility could recognise and celebrate the First Nations community. The circle also provides space for Traditional Owners to hold ceremonies such as Welcome to Country for new players and staff, as well as the public. The floor is bluestone, acknowledging that Whitten Oval sits on a former bluestone quarry. A map at the centre is shaped to represent Blue Lake, the initial name for the Footscray area. It carries an inscription of the Blue Lake area and bronze inlays marking significant local First Nations sites. A metal strip running through the ground represents the Maribyrnong River and the importance of waterways. Upright hardwood posts reference the boomerang form, which is repeated in the seating. The circle was officially opened during Sir Doug Nicholls Round, with the whole Club taking part in a smoking ceremony led by Wurundjeri man Thane Garvey.",
+   "status": "Built",
+   "scale": "Precinct",
+   "facets": {
+    "project_type": [
+     "Sport + Stadium"
+    ],
+    "design_element": [
+     "Ground Plane + Paving",
+     "Furniture",
+     "Planting"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Naming + Language"
+    ],
+    "dwc_themes": [
+     "Truth Telling",
+     "Ceremony",
+     "Gathering Place",
+     "Cultural Safety",
+     "Relationships + Community Involvement",
+     "Cultural Fire"
+    ],
+    "environment": [],
+    "materials": [
+     "Timber",
+     "Stone",
+     "Steel"
+    ],
+    "programme": [
+     "Public Programs + Events",
+     "Ceremony Space"
+    ],
+    "involvement": [
+     "First Peoples-led design",
+     "Consulted"
+    ]
+   },
+   "tags": [
+    "yarning circle",
+    "bluestone",
+    "boomerang form",
+    "blue lake",
+    "maribyrnong river",
+    "bronze inlay",
+    "smoking ceremony",
+    "afl",
+    "welcome to country",
+    "whitten oval",
+    "western bulldogs",
+    "sir doug nicholls round",
+    "kulin nation",
+    "wurundjeri",
+    "greenaway architecture"
+   ],
+   "sources": [
+    "Western Bulldogs open Yarning Circle, https://www.westernbulldogs.com.au/news/2026100/western-bulldogs-open-yarning-circle",
+    "Whitten Oval Redevelopment FAQs, https://www.westernbulldogs.com.au/redevelopment/whitten-oval-redevelopment-faqs",
+    "Western Bulldogs Whitten Oval Redevelopment, Greenshoot, https://www.greenshootconsulting.com/project-whitten-oval",
+    "Western Bulldogs Whitten Oval, https://populous.com/projects/western-bulldogs-whitten-oval"
+   ],
+   "greenshoot_project": true,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mw88pd7d6ec678",
+     "key": "up/img_mw88pd7d6ec678.jpg",
+     "thumb_key": "up/img_mw88pd7d6ec678_t.jpg",
+     "image_type": "Photo",
+     "caption": "Players and staff gathered around a smoking ceremony in the Yarning Circle, with angled hardwood posts, curved stone seating with timber tops and bluestone paving",
+     "credit": "westernbulldogs.com.au",
+     "source_url": "https://resources.westernbulldogs.com.au/photo-resources/2026/05/18/eed5fc74-69f9-456d-b1e6-67f5912fec8b/yarning-circle-article.jpg?width=2128&height=1200",
+     "primary": true
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-08",
+   "updated": "2026-11-08",
+   "history": [
+    {
+     "date": "2026-11-08",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
