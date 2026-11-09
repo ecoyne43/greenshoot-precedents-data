@@ -1062,6 +1062,116 @@
      "what": "updated from inbox (sent by Ed)"
     }
    ]
+  },
+  {
+   "id": "PR-0007",
+   "name": "51 Flinders Lane",
+   "also_known_as": "",
+   "location_text": "51 Flinders Lane, Melbourne VIC",
+   "city": "Melbourne",
+   "state": "VIC",
+   "country": "Australia",
+   "country_to": "Wurundjeri Woi-wurrung Country",
+   "year_completed": "2026",
+   "architect": "Bates Smart",
+   "landscape_architect": "",
+   "artists": "",
+   "first_peoples_collaborators": "Wurundjeri Woi-wurrung Traditional Owners; Aunty Joy Murphy; Uncle Colin Hunter; Greenshoot Consulting (Traditional Owner engagement and codesign, Design + Architecture Framework, art strategy and artist selection process)",
+   "client": "The GPT Group (developer)",
+   "other_team": "Lendlease (head contractor); SRG Global (curtain wall facades); FacadeX (brass-look main entrance, feature screening, internal brick slip cladding); Slattery (cost management); Greenaway Architects (laneway collaboration)",
+   "awards": "",
+   "summary": "51 Flinders Lane is a building in the Melbourne CBD with a red brick facade and a deep, arched entry. The entry is lined with ribbed arches of perforated gold-coloured metal panels with concealed lighting, and is closed by a black metal gate with a stylised reed and flower pattern. A patterned panel sits above the inner doorway. The street number is shown in illuminated lettering on the brick pier.",
+   "why_it_matters": "The entry shows how pattern, metalwork and light can make a considered threshold to a building. The laneway was co-designed with Wurundjeri Woi-wurrung Traditional Owners, with Greenshoot Consulting and Greenaway Architects, and Bates Smart describes the north entry portal as inspired by traditional eel traps. The link between the photographed arch and that portal is inferred and should be confirmed with the team.",
+   "description": "This record is based on one site photograph supplied by a team member for the project card. It shows the street entry to 51 Flinders Lane, Melbourne. The facade is red brick with a framed, recessed opening. Inside the opening, a series of arched ribs clad in perforated gold-toned metal forms a tunnel-like entry, lit from behind the ribs so the surfaces glow. The ceiling of the entry has a metal panelled soffit. At street level a black steel gate fills the arch opening, with vertical bars and a pattern of curved stems, reeds and small flowers cut or applied across it. Beyond the gate, a gold panel with a geometric pattern of black rectilinear shapes sits above the inner entry, and brick walls continue into the lobby. The address is shown in illuminated metal letters on the right-hand brick pier. The photo does not identify the designers, artists, client or completion date, and gives no information on First Peoples involvement.",
+   "status": "Built",
+   "scale": "Building",
+   "facets": {
+    "project_type": [
+     "Workplace + Commercial",
+     "Streetscape + Urban Design"
+    ],
+    "design_element": [
+     "Facade",
+     "Roof + Ceiling + Soffit",
+     "Ground Plane + Paving",
+     "Screen",
+     "Entry + Threshold",
+     "Lighting"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Light + Projection",
+     "Pattern + Graphics"
+    ],
+    "dwc_themes": [
+     "Relationships + Community Involvement"
+    ],
+    "environment": [
+     "Sustainable Design"
+    ],
+    "materials": [
+     "Stone",
+     "Brick",
+     "Steel"
+    ],
+    "programme": [],
+    "involvement": [
+     "Co-designed with Traditional Owners",
+     "Not documented"
+    ]
+   },
+   "tags": [
+    "arched entry",
+    "perforated metal",
+    "gate",
+    "brass tone",
+    "laneway",
+    "illuminated signage",
+    "wurundjeri woi-wurrung",
+    "birrarung",
+    "eel trap inspired",
+    "bluestone paving",
+    "brass inlay",
+    "gpt group",
+    "bates smart",
+    "greenshoot project"
+   ],
+   "sources": [
+    "51 Flinders Lane project photography (sender's own photo), Preview",
+    "51 Flinders Lane - Bates Smart, https://www.batessmart.com/projects/51-flinders-lane",
+    "GPT 51 Flinders Lane - Indigenous Engagement and Codesign, https://www.greenshootconsulting.com/gpt-51-flinders-lane",
+    "Connected, Commercial and Cutting Edge: 51 Flinders Lane, https://www.commercialrealestate.com.au/news/cre-may15-sponsored-content-gptgroup-1378525/",
+    "Facades Contract Secured in Melbourne - SRG Global, https://srgglobal.com.au/facades-contract-secured-in-melbourne-for-the-51-flinders-lane-development/",
+    "51 Flinders Lane - FacadeX, http://facadex.com.au/project/51-flinders-lane/",
+    "GPT receives green light for office towers at 51 Flinders Lane, https://www.gpt.com.au/news-insights/gpt-receives-green-light-office-towers-51-flinders-lane"
+   ],
+   "greenshoot_project": true,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mw9jynsxf04ac7",
+     "key": "up/img_mw9jynsxf04ac7.jpg",
+     "thumb_key": "up/img_mw9jynsxf04ac7_t.jpg",
+     "image_type": "Photo",
+     "caption": "Street entry to 51 Flinders Lane showing the brick facade, lit gold perforated metal arches and black patterned gate",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": true
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-09",
+   "updated": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
