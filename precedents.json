@@ -1066,7 +1066,7 @@
   {
    "id": "PR-0007",
    "name": "51 Flinders Lane",
-   "also_known_as": "",
+   "also_known_as": "51 Flinders Ln",
    "location_text": "51 Flinders Lane, Melbourne VIC",
    "city": "Melbourne",
    "state": "VIC",
@@ -1076,13 +1076,13 @@
    "architect": "Bates Smart",
    "landscape_architect": "",
    "artists": "",
-   "first_peoples_collaborators": "Wurundjeri Woi-wurrung Traditional Owners; Aunty Joy Murphy; Uncle Colin Hunter; Greenshoot Consulting (Traditional Owner engagement and codesign, Design + Architecture Framework, art strategy and artist selection process)",
+   "first_peoples_collaborators": "Wurundjeri Woi-wurrung Traditional Owners; Wurundjeri Elders (guided the project throughout, per client post); Aunty Joy Murphy; Uncle Colin Hunter; Greenshoot Consulting (Traditional Owner engagement and codesign, Design + Architecture Framework, art strategy and artist selection process)",
    "client": "The GPT Group (developer)",
    "other_team": "Lendlease (head contractor); SRG Global (curtain wall facades); FacadeX (brass-look main entrance, feature screening, internal brick slip cladding); Slattery (cost management); Greenaway Architects (laneway collaboration)",
    "awards": "",
-   "summary": "51 Flinders Lane is a building in the Melbourne CBD with a red brick facade and a deep, arched entry. The entry is lined with ribbed arches of perforated gold-coloured metal panels with concealed lighting, and is closed by a black metal gate with a stylised reed and flower pattern. A patterned panel sits above the inner doorway. The street number is shown in illuminated lettering on the brick pier.",
-   "why_it_matters": "The entry shows how pattern, metalwork and light can make a considered threshold to a building. The laneway was co-designed with Wurundjeri Woi-wurrung Traditional Owners, with Greenshoot Consulting and Greenaway Architects, and Bates Smart describes the north entry portal as inspired by traditional eel traps. The link between the photographed arch and that portal is inferred and should be confirmed with the team.",
-   "description": "This record is based on one site photograph supplied by a team member for the project card. It shows the street entry to 51 Flinders Lane, Melbourne. The facade is red brick with a framed, recessed opening. Inside the opening, a series of arched ribs clad in perforated gold-toned metal forms a tunnel-like entry, lit from behind the ribs so the surfaces glow. The ceiling of the entry has a metal panelled soffit. At street level a black steel gate fills the arch opening, with vertical bars and a pattern of curved stems, reeds and small flowers cut or applied across it. Beyond the gate, a gold panel with a geometric pattern of black rectilinear shapes sits above the inner entry, and brick walls continue into the lobby. The address is shown in illuminated metal letters on the right-hand brick pier. The photo does not identify the designers, artists, client or completion date, and gives no information on First Peoples involvement.",
+   "summary": "51 Flinders Lane is a dual-tower office development for The GPT Group in Melbourne's East End, near Parliament Station. A red brick facade fronts Flinders Lane, with a deep arched entry lined with ribbed, lit arches of perforated gold-coloured metal and closed by a black gate with a stylised reed and flower pattern. The entry leads to a new laneway to Flinders Street, with a bridge connection and a wide stair. Wurundjeri Elders guided the project, with Greenshoot Consulting.",
+   "why_it_matters": "The entry shows how pattern, metalwork and light can make a considered threshold to a building. The laneway was co-designed with Wurundjeri Woi-wurrung Traditional Owners, with Greenshoot Consulting and Greenaway Architects, and Bates Smart describes the north entry portal as inspired by traditional eel traps. The link between the photographed arch and that portal is inferred and should be confirmed with the team. The laneway and stair carry the design beyond the entry, with a brass line set into paving, lit stair treads, a patterned ceiling and timber seating, so everyday elements in a large commercial development can hold the design language. The post does not explain what these elements mean, so their cultural content should be confirmed with the team.",
+   "description": "This record is based on one site photograph supplied by a team member for the project card. It shows the street entry to 51 Flinders Lane, Melbourne. The facade is red brick with a framed, recessed opening. Inside the opening, a series of arched ribs clad in perforated gold-toned metal forms a tunnel-like entry, lit from behind the ribs so the surfaces glow. The ceiling of the entry has a metal panelled soffit. At street level a black steel gate fills the arch opening, with vertical bars and a pattern of curved stems, reeds and small flowers cut or applied across it. Beyond the gate, a gold panel with a geometric pattern of black rectilinear shapes sits above the inner entry, and brick walls continue into the lobby. The address is shown in illuminated metal letters on the right-hand brick pier. The photo does not identify the designers, artists, client or completion date, and gives no information on First Peoples involvement.\n\nA later Instagram post about the project describes 51 Flinders Lane as a dual-tower development for The GPT Group, due to welcome tenants in August (the year is not stated). It sits in Melbourne's historic East End, close to Parliament Station, and is described as adding a bold new silhouette to the skyline while responding to its historic surroundings through materiality, context and light. A generous entry from Flinders Lane welcomes pedestrians into a new laneway connecting to Flinders Street. Access is supported by a bridge connection to the Flinders Street lobby and a wide stair descending to a new activated laneway. The post says the project was designed in collaboration with Greenshoot Consulting, supported by Greenaway Architects, and guided throughout by Wurundjeri Elders. The post's images show a red brick facade with deep window reveals, a laneway with brick walls, stone paving in varied tones, a patterned ceiling with linear lights, and timber bench seating. A stair has glowing amber treads and a curved brass-toned structure above. A plan-view photo shows a wavy brass line set into the stair and paving. The post does not explain the meaning of these elements.",
    "status": "Built",
    "scale": "Building",
    "facets": {
@@ -1094,6 +1094,7 @@
      "Facade",
      "Roof + Ceiling + Soffit",
      "Ground Plane + Paving",
+     "Furniture",
      "Screen",
      "Entry + Threshold",
      "Lighting"
@@ -1110,6 +1111,7 @@
      "Sustainable Design"
     ],
     "materials": [
+     "Timber",
      "Stone",
      "Brick",
      "Steel"
@@ -1134,7 +1136,13 @@
     "brass inlay",
     "gpt group",
     "bates smart",
-    "greenshoot project"
+    "greenshoot project",
+    "east end",
+    "dual tower",
+    "illuminated stair",
+    "wurundjeri elders",
+    "patterned ceiling",
+    "timber bench seating"
    ],
    "sources": [
     "51 Flinders Lane project photography (sender's own photo), Preview",
@@ -1143,7 +1151,8 @@
     "Connected, Commercial and Cutting Edge: 51 Flinders Lane, https://www.commercialrealestate.com.au/news/cre-may15-sponsored-content-gptgroup-1378525/",
     "Facades Contract Secured in Melbourne - SRG Global, https://srgglobal.com.au/facades-contract-secured-in-melbourne-for-the-51-flinders-lane-development/",
     "51 Flinders Lane - FacadeX, http://facadex.com.au/project/51-flinders-lane/",
-    "GPT receives green light for office towers at 51 Flinders Lane, https://www.gpt.com.au/news-insights/gpt-receives-green-light-office-towers-51-flinders-lane"
+    "GPT receives green light for office towers at 51 Flinders Lane, https://www.gpt.com.au/news-insights/gpt-receives-green-light-office-towers-51-flinders-lane",
+    "Instagram post on 51 Flinders Lane, https://www.instagram.com/p/DZmGzMVga_7/?img_index=6"
    ],
    "greenshoot_project": true,
    "used_in": [],
@@ -1159,17 +1168,53 @@
      "credit": "Ed",
      "source_url": "",
      "primary": true
+    },
+    {
+     "id": "img_mw9kv0vq80b81f",
+     "key": "up/img_mw9kv0vq80b81f.jpg",
+     "thumb_key": "up/img_mw9kv0vq80b81f_t.jpg",
+     "image_type": "Photo",
+     "caption": "Brick facade with deep window reveals reflecting neighbouring buildings",
+     "credit": "instagram.com",
+     "source_url": "https://scontent.cdninstagram.com/v/t39.30808-6/720408230_1035947068948062_1984591845933502694_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yhPo4LeJn14Q7kNvwGEQvZZ&_nc_oc=Adr9Tawfuy7I45pRelygBx8wfz1FScXs2G8kFtkzis7RiGHjYpvVwYDQxGTKn1ARtAs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=qNybTx7L_Sks_S0yZLNqbg&_nc_ss=7ba8c&oh=00_AQSRp0S47uxd77WmXDRtxVIu9JWmc8SBKuY3YELakGc1kA&oe=6AF7D3AC",
+     "primary": false
+    },
+    {
+     "id": "img_mw9kv6qwbf355a",
+     "key": "up/img_mw9kv6qwbf355a.jpg",
+     "thumb_key": "up/img_mw9kv6qwbf355a_t.jpg",
+     "image_type": "Photo",
+     "caption": "Stair with illuminated amber treads, brick walls, patterned ceiling and curved brass-toned structure above",
+     "credit": "instagram.com",
+     "source_url": "https://instagram.fper13-1.fna.fbcdn.net/v/t39.30808-6/723626267_1035947008948068_8185357049546967742_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=MzkxOTg1MDQwNTY1MTEwOTE2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dlTpa4MnO94Q7kNvwEzjCDU&_nc_oc=AdpdNv9P5MOLP65UT8SxFQSYEKPpIGO6NV921Z5neYD28NJ5q_RZF8kDvekpXz3qVHY&_nc_zt=23&_nc_ht=instagram.fper13-1.fna&_nc_gid=McbrqWmHtMPyd3oR_VocXg&_nc_ss=7ba8c&oh=00_AQRwnQYlcur3pin30rQjLRL90c8LVjyrtUMYqreAesGopw&oe=6AF7D4DB",
+     "primary": false
+    },
+    {
+     "id": "img_mw9kvcdoe6fbee",
+     "key": "up/img_mw9kvcdoe6fbee.jpg",
+     "thumb_key": "up/img_mw9kvcdoe6fbee_t.jpg",
+     "image_type": "Photo",
+     "caption": "Top: plan view of stair and paving with a wavy brass line inlay. Bottom: brick laneway with patterned ceiling, stone paving and timber bench",
+     "credit": "instagram.com",
+     "source_url": "https://instagram.fper13-1.fna.fbcdn.net/v/t39.30808-6/722703207_1035947035614732_5590795386483552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=MzkxOTg1MDQwNjQzOTY0NjkxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6vDth9EadzUQ7kNvwFLjtz-&_nc_oc=AdqeNa1ZMLu4MapX12hcOuqhmK_O3gO7lN1_mkXPv2-a4oq4gkHmEOpsG3wYHKiShXc&_nc_zt=23&_nc_ht=instagram.fper13-1.fna&_nc_gid=McbrqWmHtMPyd3oR_VocXg&_nc_ss=7ba8c&oh=00_AQQ_NaqXIJadnfhZRDT-UAfMKrkQRsDujRmm_jLOdMfPvg&oe=6AF7D91E",
+     "primary": false
     }
    ],
    "added_by": "Ed",
    "approved_by": "Ed",
    "added": "2026-11-09",
    "updated": "2026-11-09",
+   "edited_by": "Ed",
    "history": [
     {
      "date": "2026-11-09",
      "by": "Ed",
      "what": "added (sent by Ed)"
+    },
+    {
+     "date": "2026-11-09",
+     "by": "Ed",
+     "what": "updated from inbox (sent by Ed)"
     }
    ]
   }
