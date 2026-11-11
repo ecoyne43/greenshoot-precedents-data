@@ -1326,6 +1326,112 @@
    "material_details": [
     "Steel"
    ]
+  },
+  {
+   "id": "PR-0008",
+   "name": "Nukunu Letter Sculptures",
+   "also_known_as": "Acknowledgment of Aboriginal Country Signage (Nukunu panel)",
+   "location_text": "Location not confirmed (roadside reserve, likely South Australia)",
+   "city": "",
+   "state": "South Australia",
+   "country": "Australia",
+   "country_to": "Nukunu",
+   "year_completed": "",
+   "architect": "Paul Herzich, Office for Design and Architecture (designer)",
+   "landscape_architect": "",
+   "artists": "",
+   "first_peoples_collaborators": "Paul Herzich (Kaurna/Ngarrindjeri designer); various South Australian First Peoples Elders and representatives (series-wide, Nukunu involvement not documented)",
+   "client": "Department of Planning, Transport and Infrastructure (DPTI), South Australia",
+   "other_team": "Sonnex (manufacture and installation, laser cutting)",
+   "awards": "2019 Australian Institute of Landscape Architects National Landscape Architecture Award of Excellence for Community Contribution (awarded to the series)",
+   "summary": "Six freestanding purple steel panels spell NUKUNU in cut-out letters beside a South Australian road. Probably the Nukunu panel of the Acknowledgment of Aboriginal Country Signage series, designed by Paul Herzich for DPTI.",
+   "why_it_matters": "",
+   "description": "",
+   "status": "Built",
+   "scale": "Object",
+   "facets": {
+    "project_type": [
+     "Streetscape + Urban Design"
+    ],
+    "design_element": [
+     "Screen",
+     "Entry + Threshold"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Naming + Language",
+     "Wayfinding + Interpretive Signage",
+     "Pattern + Graphics",
+     "Acknowledgement of Country"
+    ],
+    "dwc_themes": [],
+    "environment": [],
+    "materials": [
+     "Metal",
+     "Paint + Pigment"
+    ],
+    "medium": [
+     "Sculpture",
+     "Laser + CNC Cutting"
+    ],
+    "programme": [],
+    "involvement": [
+     "Not documented"
+    ]
+   },
+   "material_details": [
+    "Steel",
+    "Powder-coated purple finish",
+    "Laser-cut metal panels"
+   ],
+   "depth": "short",
+   "tags": [
+    "nukunu",
+    "gateway sign",
+    "perforated panels",
+    "crescent pattern",
+    "letterforms",
+    "purple",
+    "acknowledgement of country",
+    "road stop signage",
+    "south australia",
+    "paul herzich",
+    "dpti"
+   ],
+   "sources": [
+    "Sender's own photo, no page or URL provided",
+    "Acknowledgment of Aboriginal Country Signage, Projects, https://www.landscapearchitectureprojects.com/projects/2020/1/29/acknowledgment-of-aboriginal-country-signage",
+    "Aboriginal Country Signage Project wins award, https://www.dit.sa.gov.au/news/archive?a=597362",
+    "Acknowledgement of Country Signage, Mantirri Design, https://www.mantirridesign.com.au/projects-1/acknowledgement-of-country",
+    "Aboriginal Artwork for the Department of Transport, https://www.sonnex.com.au/projects/aboriginal-artwork/"
+   ],
+   "greenshoot_project": false,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mwc2qq81457f79",
+     "key": "up/img_mwc2qq81457f79.jpg",
+     "thumb_key": "up/img_mwc2qq81457f79_t.jpg",
+     "image_type": "Photo",
+     "caption": "Six purple perforated steel panels spelling NUKUNU, standing in dry grass with trees behind.",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": true
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-11",
+   "updated": "2026-11-11",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
