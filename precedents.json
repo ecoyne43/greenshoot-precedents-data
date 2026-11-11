@@ -581,7 +581,7 @@
    "artists": "",
    "first_peoples_collaborators": "Aunty Joy Murphy (Wurundjeri Elder), Uncle Colin Hunter (Wurundjeri), Craig Murphy (Wurundjeri), Greenshoot Consulting (cultural codesign), Wurundjeri Woi Wurrung Cultural Heritage Aboriginal Corporation (Traditional Owner group, consulted on facility and landscape design)",
    "client": "Darebin City Council (City of Darebin)",
-   "other_team": "Brett Diprose, Warren and Mahoney (project architect); Greenaway Architects (assisted Traditional Owner consultation); Kane Constructions (builder); Taylor Thomson Whitting (structural and civil engineer); Arup (environmental consultant); Crackerjack Consulting Engineers (aquatic design); Introba (building services); Normark Landscapes (landscape contractor); Rubner (timber structure); Klay Tiles ",
+   "other_team": "Brett Diprose, Warren and Mahoney (project architect); Greenaway Architects (assisted Traditional Owner consultation); Kane Constructions (builder); Taylor Thomson Whitting (structural and civil engineer); Arup (environmental consultant); Crackerjack Consulting Engineers (aquatic design); Introba (building services); Normark Landscapes (landscape contractor); Rubner (timber structure); Klay Tiles",
    "awards": "",
    "summary": "Cultural codesign for the new Northcote Aquatic and Recreation Centre in Northcote, Victoria, designed by WAM. Greenshoot Consulting worked with Wurundjeri Elders to embed three interventions: a three by five metre Sacred Kingfisher in flight on the Victoria Road facade, made from coloured metal rods; water ribbon patterning in the splash pad; and a cultural gathering space for yarning and cultural practice.",
    "why_it_matters": "It shows Elders directing how cultural knowledge is translated into a facade artwork, floor patterning and a gathering space within a public aquatic centre. The kingfisher links Wurundjeri knowledge of pristine waterways to the building's sustainability aims.",
@@ -746,17 +746,63 @@
      "credit": "Good Design",
      "source_url": "https://good-design.org/wp-content/uploads/manual_import/2025/9699/5.jpg",
      "primary": false
+    },
+    {
+     "id": "img_mwbvbleyb2cade",
+     "key": "up/img_mwbvbleyb2cade.jpg",
+     "thumb_key": "up/img_mwbvbleyb2cade_t.jpg",
+     "image_type": "Photo",
+     "caption": "Courtyard with three etched timber benches around a large perforated stone boulder with eucalyptus leaves, in front of the glazed facade",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwbvbnhzb8b625",
+     "key": "up/img_mwbvbnhzb8b625.jpg",
+     "thumb_key": "up/img_mwbvbnhzb8b625_t.jpg",
+     "image_type": "Detail",
+     "caption": "Timber bench with etched diamond motifs on the backrest, with a frosted fish band on the glazing behind",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwbvboya0d0d15",
+     "key": "up/img_mwbvboya0d0d15.jpg",
+     "thumb_key": "up/img_mwbvboya0d0d15_t.jpg",
+     "image_type": "Detail",
+     "caption": "Timber bench with etched flowing line pattern and diamond motif on the backrest, outside the centre entry",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwbvbqnz662e40",
+     "key": "up/img_mwbvbqnz662e40.jpg",
+     "thumb_key": "up/img_mwbvbqnz662e40_t.jpg",
+     "image_type": "Photo",
+     "caption": "Brick facade with a bird in flight formed from coloured discs, with three people standing in front",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
     }
    ],
    "added_by": "Ed",
    "approved_by": "Ed",
    "added": "2026-11-08",
-   "updated": "2026-11-08",
+   "updated": "2026-11-11",
+   "edited_by": "Ed",
    "history": [
     {
      "date": "2026-11-08",
      "by": "Ed",
      "what": "added (sent by Ed)"
+    },
+    {
+     "date": "2026-11-11",
+     "by": "Ed",
+     "what": "updated from inbox (sent by Ed)"
     }
    ]
   },
