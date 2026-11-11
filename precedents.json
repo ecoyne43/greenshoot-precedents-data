@@ -1550,6 +1550,116 @@
      "what": "added (sent by Ed)"
     }
    ]
+  },
+  {
+   "id": "PR-0010",
+   "name": "Mount Archer Treetop Boardwalk",
+   "also_known_as": "Nurim Circuit; Nurim Boardwalk; Fraser Park sky walk; Mt Archer Treetop Boardwalk",
+   "location_text": "Pilbeam Drive, Mount Archer (Nurim), Rockhampton QLD",
+   "city": "Rockhampton",
+   "state": "QLD",
+   "country": "Australia",
+   "country_to": "Darumbal",
+   "year_completed": "",
+   "architect": "Design+Architecture (Colin Strydom)",
+   "landscape_architect": "Michael Ramsay (Rockhampton Regional Council)",
+   "artists": "Michelle Black and Ernest Garrett (later seating commission); balustrade panel artist not identified",
+   "first_peoples_collaborators": "Darumbal Enterprises (stories, language and artwork); Ernest Garrett (Darumbal and Wulli Wulli artist, seating artwork); local Elders (unnamed)",
+   "client": "Rockhampton Regional Council",
+   "other_team": "Shreya Khanna, Alex Stein, Jordan Pollard (Design+Architecture design team); BT Builders (builder); Queensland National Parks (collaborator); Rockhampton Regional Council (engineer)",
+   "awards": "Central Queensland Regional Project of the Year, Australian Institute of Architects Queensland Regional Architecture Awards 2019; Bronze, A' Design Award, Architecture, Building and Structure Design, 2018-2019; shortlisted, Queensland State Awards (no result found)",
+   "summary": "Elevated boardwalk of ironbark decking and galvanised steel balustrades through the tree canopy on Mount Archer (Nurim). The deck is cut around existing trunks, and Darumbal art panels are set into the balustrade.",
+   "why_it_matters": "",
+   "description": "",
+   "status": "Built",
+   "scale": "Landscape",
+   "facets": {
+    "project_type": [
+     "Park + Open Space"
+    ],
+    "design_element": [
+     "Furniture",
+     "Screen",
+     "Boardwalk + Path"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Naming + Language",
+     "Wayfinding + Interpretive Signage",
+     "Pattern + Graphics"
+    ],
+    "dwc_themes": [
+     "Relationships + Community Involvement"
+    ],
+    "environment": [
+     "Flora + Fauna + Habitat",
+     "Sustainable Design"
+    ],
+    "materials": [
+     "Timber",
+     "Concrete",
+     "Metal"
+    ],
+    "medium": [
+     "Carving + Engraving",
+     "Laser + CNC Cutting"
+    ],
+    "programme": [],
+    "involvement": [
+     "Consulted",
+     "Not documented"
+    ]
+   },
+   "material_details": [
+    "Timber decking",
+    "Galvanised steel balustrade",
+    "Laser-cut metal panels",
+    "Native ironbark timber decking and handrails",
+    "Concrete footings",
+    "Aluminium and stainless steel edging to Darumbal art panels",
+    "Laser-cut and carved rusted-look steel seat panels"
+   ],
+   "depth": "short",
+   "tags": [
+    "treetop walk",
+    "canopy boardwalk",
+    "tree retention",
+    "balustrade panel",
+    "lookout",
+    "nurim",
+    "darumbal",
+    "fraser park"
+   ],
+   "sources": [
+    "Mount Archer Treetop Boardwalk, sender's photo"
+   ],
+   "greenshoot_project": false,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mwc5gvbvecb361",
+     "key": "up/img_mwc5gvbvecb361.jpg",
+     "thumb_key": "up/img_mwc5gvbvecb361_t.jpg",
+     "image_type": "Photo",
+     "caption": "Timber boardwalk with steel balustrade curving around retained tree trunks, with a patterned decorative panel set into the balustrade",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": true
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-11",
+   "updated": "2026-11-11",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
