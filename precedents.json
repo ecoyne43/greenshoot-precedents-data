@@ -1432,6 +1432,124 @@
      "what": "added (sent by Ed)"
     }
    ]
+  },
+  {
+   "id": "PR-0009",
+   "name": "Granite Island Causeway",
+   "also_known_as": "Kaldowinyeri Yarluki (Dreaming Track)",
+   "location_text": "Granite Island Causeway, Victor Harbor SA",
+   "city": "Victor Harbor",
+   "state": "South Australia",
+   "country": "Australia",
+   "country_to": "Ngarrindjeri and Ramindjeri",
+   "year_completed": "2021",
+   "architect": "Cox Architecture",
+   "landscape_architect": "TRACT",
+   "artists": "Cedric Varcoe, Amanda Westley, Kyla McHughes, Kevin Kropinyeri, Jamaya Branson",
+   "first_peoples_collaborators": "Ngarrindjeri Aboriginal Corporation (RNTBC, cultural expression in design representative); Cedric Varcoe, Amanda Westley, Kyla McHughes, Kevin Kropinyeri, Jamaya Branson (artists)",
+   "client": "Department for Infrastructure and Transport (DIT), South Australia",
+   "other_team": "Wallbridge Gilbert Aztec (lead designer, engineering); McConnell Dowell (builder); Elevation Design (interpretive signage); Bianco Precast (deck artwork fabrication)",
+   "awards": "2023 AILA Award of Excellence, Cultural Heritage (SA); 2023 AILA Regional Achievement Award (SA)",
+   "summary": "Foreshore promenade and seating at the Granite Island Causeway, Victor Harbor, designed by TRACT. A timber seating block has bird and animal names in language and engraved motifs on its vertical slats, alongside an interpretive panel.",
+   "why_it_matters": "",
+   "description": "",
+   "status": "Built",
+   "scale": "Precinct",
+   "facets": {
+    "project_type": [
+     "Streetscape + Urban Design",
+     "Bridge + Infrastructure"
+    ],
+    "design_element": [
+     "Ground Plane + Paving",
+     "Furniture",
+     "Boardwalk + Path"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Naming + Language",
+     "Wayfinding + Interpretive Signage",
+     "Pattern + Graphics"
+    ],
+    "dwc_themes": [
+     "Truth Telling",
+     "Relationships + Community Involvement"
+    ],
+    "environment": [],
+    "materials": [
+     "Timber",
+     "Concrete",
+     "Metal"
+    ],
+    "medium": [
+     "Sculpture",
+     "Carving + Engraving",
+     "Etching + Sandblasting"
+    ],
+    "programme": [],
+    "involvement": [
+     "Co-designed with Traditional Owners",
+     "First Peoples artist commission",
+     "Not documented"
+    ]
+   },
+   "material_details": [
+    "Timber slats",
+    "Engraved timber",
+    "Unit pavers",
+    "Concrete and steel causeway deck",
+    "Sandblasted artwork in precast concrete deck"
+   ],
+   "depth": "short",
+   "tags": [
+    "bird names",
+    "seating block",
+    "foreshore",
+    "interpretive panel",
+    "engraved motifs",
+    "ngarrindjeri",
+    "ramindjeri",
+    "kaldowinyeri yarluki",
+    "ngurunderi",
+    "causeway",
+    "sandblasted artwork",
+    "aila award"
+   ],
+   "sources": [
+    "Granite island Causeway - TRACT (sender's photo file name)",
+    "Granite Island Causeway, Tract, https://tract.com.au/projects/granite-island-causeway/",
+    "Integrated Aboriginal Artwork, DIT, https://dit.sa.gov.au/infrastructure/major_projects/granite_island_causeway/integrated_aboriginal_artwork",
+    "Granite Island Causeway - Department for Infrastructure and Transport, https://www.dpti.sa.gov.au/infrastructure/major_projects/granite_island_causeway",
+    "Granite Island Causeway, Nostalgic Infrastructure, WGA, https://wga.com.au/news/2022/04/21/granite-island-causeway-nostalgic-infrastructure/",
+    "2023 SA State Landscape Architecture Awards, Green Magazine, https://greenmagazine.com.au/2023-sa-state-landscape-architecture-awards/"
+   ],
+   "greenshoot_project": false,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mwc4ll464ef775",
+     "key": "up/img_mwc4ll464ef775.jpg",
+     "thumb_key": "up/img_mwc4ll464ef775_t.jpg",
+     "image_type": "Photo",
+     "caption": "Timber seating block with engraved bird names and motifs on the vertical slats, with interpretive panel, white railings and the bay behind",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": true
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-11",
+   "updated": "2026-11-11",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
