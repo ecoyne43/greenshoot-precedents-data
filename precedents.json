@@ -54,7 +54,7 @@
     ],
     "materials": [
      "Stone",
-     "Steel"
+     "Metal"
     ],
     "programme": [
      "Public Programs + Events",
@@ -188,6 +188,9 @@
      "by": "Ed",
      "what": "added (sent by Ed)"
     }
+   ],
+   "material_details": [
+    "Steel"
    ]
   },
   {
@@ -237,7 +240,7 @@
     "environment": [],
     "materials": [
      "Concrete",
-     "Steel"
+     "Metal"
     ],
     "programme": [
      "Public Programs + Events"
@@ -356,6 +359,9 @@
      "by": "Ed",
      "what": "edited"
     }
+   ],
+   "material_details": [
+    "Steel"
    ]
   },
   {
@@ -413,8 +419,9 @@
      "Stone",
      "Brick",
      "Concrete",
-     "Steel"
+     "Metal"
     ],
+    "medium": [],
     "programme": [
      "Public Programs + Events",
      "Ceremony Space"
@@ -424,6 +431,10 @@
      "Co-designed with Traditional Owners"
     ]
    },
+   "material_details": [
+    "Steel"
+   ],
+   "depth": "full",
    "tags": [
     "fire dish",
     "bronze etching",
@@ -546,12 +557,32 @@
      "credit": "Greenaway Architects",
      "source_url": "https://cdn.yournet.space/good-design.org/2023/6830/Image5.jpg",
      "primary": false
+    },
+    {
+     "id": "img_mwc2lytg18bb09",
+     "key": "up/img_mwc2lytg18bb09.jpg",
+     "thumb_key": "up/img_mwc2lytg18bb09_t.jpg",
+     "image_type": "Detail",
+     "caption": "Top of the circular metal dish, etched with contour lines and inlaid with lighter river and landform shapes, set in stone setts",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwc2m0u45c425a",
+     "key": "up/img_mwc2m0u45c425a.jpg",
+     "thumb_key": "up/img_mwc2m0u45c425a_t.jpg",
+     "image_type": "Detail",
+     "caption": "Metal bars with etched place names including Yarra Yarra Falls, Great Western Swamp, Birrarung Marr, Ancestral Remains and Tunnerminnerwait (text cut off)",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
     }
    ],
    "added_by": "Ed",
    "approved_by": "Ed",
    "added": "2026-11-07",
-   "updated": "2026-11-07",
+   "updated": "2026-11-11",
    "edited_by": "Ed",
    "history": [
     {
@@ -561,6 +592,11 @@
     },
     {
      "date": "2026-11-07",
+     "by": "Ed",
+     "what": "updated from inbox (sent by Ed)"
+    },
+    {
+     "date": "2026-11-11",
      "by": "Ed",
      "what": "updated from inbox (sent by Ed)"
     }
@@ -625,7 +661,7 @@
      "Stone",
      "Brick",
      "Concrete",
-     "Steel"
+     "Metal"
     ],
     "programme": [
      "Public Programs + Events",
@@ -804,6 +840,9 @@
      "by": "Ed",
      "what": "updated from inbox (sent by Ed)"
     }
+   ],
+   "material_details": [
+    "Steel"
    ]
   },
   {
@@ -854,7 +893,7 @@
     "materials": [
      "Timber",
      "Stone",
-     "Steel"
+     "Metal"
     ],
     "programme": [
      "Public Programs + Events",
@@ -925,6 +964,9 @@
      "by": "Ed",
      "what": "updated from inbox (sent by Ed)"
     }
+   ],
+   "material_details": [
+    "Steel"
    ]
   },
   {
@@ -975,7 +1017,7 @@
     "materials": [
      "Stone",
      "Concrete",
-     "Steel"
+     "Metal"
     ],
     "programme": [
      "Public Programs + Events",
@@ -1107,6 +1149,9 @@
      "by": "Ed",
      "what": "updated from inbox (sent by Ed)"
     }
+   ],
+   "material_details": [
+    "Steel"
    ]
   },
   {
@@ -1160,7 +1205,7 @@
      "Timber",
      "Stone",
      "Brick",
-     "Steel"
+     "Metal"
     ],
     "programme": [],
     "involvement": [
@@ -1277,6 +1322,9 @@
      "by": "Ed",
      "what": "updated from inbox (sent by Ed)"
     }
+   ],
+   "material_details": [
+    "Steel"
    ]
   }
  ]
