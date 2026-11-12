@@ -1864,6 +1864,172 @@
      "what": "added (sent by Ed)"
     }
    ]
+  },
+  {
+   "id": "PR-0011",
+   "name": "111 Bourke St Redevelopment",
+   "also_known_as": "East End Place; SX Stage 2; Southern Cross Western Office Tower",
+   "location_text": "111 Bourke Street, corner of Bourke and Exhibition Streets, East End Place precinct, Melbourne VIC",
+   "city": "Melbourne",
+   "state": "Victoria",
+   "country": "Australia",
+   "country_to": "Wurundjeri Woi-wurrung",
+   "year_completed": "2026",
+   "architect": "COX",
+   "landscape_architect": "Oculus",
+   "artists": "",
+   "first_peoples_collaborators": "Greenshoot Consulting (Indigenous Engagement)",
+   "client": "Charter Hall; BGRE",
+   "other_team": "AECOM (structure); Arup (building services and ESD); Codicote (project management); RLB (QS); Urbis (planning); WSP (fire and waste); Buildcorp (builder); Tempio (terracotta cladding manufacturer); APS Systems (facade cladding installer); DCA Façade (facade cladding supplier)",
+   "awards": "2026 Council on Vertical Urbanism, Repositioning Award",
+   "summary": "Repositioning of a 20-level office tower (completed 2009) at 111 Bourke Street, Melbourne, by COX, within East End Place. Three terracotta pavilions, a timber and rammed earth palette with reused materials, and ground plane landscape by Oculus carrying First Nations storytelling, developed with Greenshoot Consulting.",
+   "why_it_matters": "It shows how First Peoples storytelling can be built into the ground plane and landscape of a commercial building retrofit, with Birrarung waterways and a meeting place marked by a Red River Gum. It also pairs cultural content with a reuse and reconfigurable-materials approach, which suits Designing with Country work on existing buildings.",
+   "description": "111 Bourke Street is a 20-level commercial office tower completed in 2009 on the corner of Bourke and Exhibition Streets, within the East End Place precinct (formerly the Southern Cross Tower precinct). The anchor tenant left in 2025, and COX led the masterplan, design and delivery of the first stage of the precinct's renewal, completed in 2026. The design follows a \"Layered Renewal\" approach: the building stayed operational, the facade was kept almost entirely intact, and new work was built around the existing structure. At ground level, three terracotta pavilions form a network of spaces from street to seating to lift lobby, including garden terraces, a cafe edge, a meeting room and third spaces. A single palette of timber, terracotta and rammed earth, much of it repurposed or recycled, runs through the laneway and foyer. Each pavilion can be disassembled and reconfigured. The retail laneway ground plane was reprogrammed with centralised seating and new portals for tenancies. First Nations storytelling is carried through the landscape: the traditional waterways of the Birrarung are revealed through sculptural artwork, and the Clearing, centred on a Red River Gum, marks the significance of meeting places. The project achieved a 6 Star Green Star Buildings Design Review rating and is all-electric.",
+   "status": "Built",
+   "scale": "Precinct",
+   "facets": {
+    "project_type": [
+     "Workplace + Commercial",
+     "Streetscape + Urban Design"
+    ],
+    "design_element": [
+     "Facade",
+     "Interior",
+     "Ground Plane + Paving",
+     "Furniture",
+     "Shelter + Pavilion",
+     "Entry + Threshold",
+     "Planting"
+    ],
+    "cultural_expression": [
+     "Public Art",
+     "Naming + Language"
+    ],
+    "dwc_themes": [
+     "Caring for Country",
+     "Truth Telling",
+     "Gathering Place"
+    ],
+    "environment": [
+     "Flora + Fauna + Habitat",
+     "Sustainable Design",
+     "Climate + Resilience"
+    ],
+    "materials": [
+     "Timber",
+     "Stone",
+     "Earth + Rammed Earth",
+     "Glass",
+     "Ceramic + Tile",
+     "Recycled + Reclaimed",
+     "Living Materials"
+    ],
+    "medium": [
+     "Sculpture",
+     "Planting Design"
+    ],
+    "programme": [
+     "Public Programs + Events",
+     "Enterprise + Commerce"
+    ],
+    "involvement": [
+     "Co-designed with Traditional Owners",
+     "Consulted"
+    ]
+   },
+   "material_details": [
+    "Terracotta cladding",
+    "Rammed earth",
+    "Timber slats",
+    "Spotted gum timber",
+    "Bluestone paving",
+    "Recycled and repurposed timber",
+    "Boulders",
+    "Tempio FK16 terracotta tiles",
+    "Terracotta baguette profile cladding",
+    "Ventilated terracotta facade system"
+   ],
+   "depth": "full",
+   "tags": [
+    "adaptive reuse",
+    "office tower",
+    "terracotta pavilions",
+    "birrarung",
+    "red river gum",
+    "the clearing",
+    "6 star green star",
+    "all-electric",
+    "east end",
+    "repositioning",
+    "layered renewal",
+    "southern cross lane",
+    "sx stage 2"
+   ],
+   "sources": [
+    "111 Bourke St Redevelopment, COX, https://www.coxarchitecture.com.au/project/111-bourke-st-redevelopment/",
+    "111 Bourke Street, Cox Architecture, https://www.coxarchitecture.com.au/project/111-bourke-street/",
+    "111 Bourke Street, The Skyscraper Center, https://www.skyscrapercenter.com/building/111-bourke-street/19810",
+    "111 Bourke St Melbourne, DCA Facade, https://www.dcafacade.com.au/projects/111-bourke-st-melbourne/",
+    "111 Bourke Street, Buildcorp, https://buildcorp.com.au/project/111-bourke-street/",
+    "111 Bourke Street, Tempio, https://tempio.es/en/project/111-bourke-street/"
+   ],
+   "greenshoot_project": true,
+   "used_in": [],
+   "sensitive": false,
+   "sensitive_note": "",
+   "images": [
+    {
+     "id": "img_mwdoe7t15328d6",
+     "key": "up/img_mwdoe7t15328d6.jpg",
+     "thumb_key": "up/img_mwdoe7t15328d6_t.jpg",
+     "image_type": "Photo",
+     "caption": "Corner of Bourke and Exhibition Streets showing terracotta pavilions beneath the retained tower facade, timber steps and boulders",
+     "credit": "Victor Vieaux",
+     "source_url": "https://www.coxarchitecture.com.au/wp-content/uploads/2026/10/322031_00_N52_highresjpg-1584x1980.jpg",
+     "primary": true
+    },
+    {
+     "id": "img_mwdoe9fba430d0",
+     "key": "up/img_mwdoe9fba430d0.jpg",
+     "thumb_key": "up/img_mwdoe9fba430d0_t.jpg",
+     "image_type": "Photo",
+     "caption": "Streetscape with angled columns and paving along the tower frontage",
+     "credit": "Victor Vieaux",
+     "source_url": "https://www.coxarchitecture.com.au/wp-content/uploads/2026/10/Picture4.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mwdoea4h97828f",
+     "key": "up/img_mwdoea4h97828f.jpg",
+     "thumb_key": "up/img_mwdoea4h97828f_t.jpg",
+     "image_type": "Detail",
+     "caption": "Terracotta pavilion with planted edge, boulders and timber seating at street level",
+     "credit": "Victor Vieaux",
+     "source_url": "https://www.coxarchitecture.com.au/wp-content/uploads/2026/10/322031_00_N10_highresjpg-1584x1980.jpg",
+     "primary": false
+    },
+    {
+     "id": "img_mwdoeaw5affe8c",
+     "key": "up/img_mwdoeaw5affe8c.jpg",
+     "thumb_key": "up/img_mwdoeaw5affe8c_t.jpg",
+     "image_type": "Photo",
+     "caption": "East End Place covered atrium with timber platforms, planting and banner",
+     "credit": "Victor Vieaux",
+     "source_url": "https://www.coxarchitecture.com.au/wp-content/uploads/2026/10/322031_00_N39_highresjpg-1584x1980.jpg",
+     "primary": false
+    }
+   ],
+   "added_by": "Ed",
+   "approved_by": "Ed",
+   "added": "2026-11-12",
+   "updated": "2026-11-12",
+   "history": [
+    {
+     "date": "2026-11-12",
+     "by": "Ed",
+     "what": "added (sent by Ed)"
+    }
+   ]
   }
  ]
 }
