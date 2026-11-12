@@ -1214,12 +1214,17 @@
      "Brick",
      "Metal"
     ],
+    "medium": [],
     "programme": [],
     "involvement": [
      "Co-designed with Traditional Owners",
      "Not documented"
     ]
    },
+   "material_details": [
+    "Steel"
+   ],
+   "depth": "full",
    "tags": [
     "arched entry",
     "perforated metal",
@@ -1306,12 +1311,202 @@
      "credit": "instagram.com",
      "source_url": "https://instagram.fper13-1.fna.fbcdn.net/v/t39.30808-6/720950301_1035947075614728_9175818694059511149_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkxOTg1MDQwMzQ3MDA4MDg1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=bAC0WtS6wnkQ7kNvwHftn5M&_nc_oc=AdpqVMwQfkXrDEEFIR2GPteQATwvbnLDPWmlvX-4RWGomuw8L9xzuDVQUn92pJXwK3Y&_nc_zt=23&_nc_ht=instagram.fper13-1.fna&_nc_gid=McbrqWmHtMPyd3oR_VocXg&_nc_ss=7ba8c&oh=00_AQTWUQlOtllsJf0NdYTmvvo0Fbf31HNdof6aaikRtieniQ&oe=6AF7F13D",
      "primary": false
+    },
+    {
+     "id": "img_mwdfax36cef533",
+     "key": "up/img_mwdfax36cef533.jpg",
+     "thumb_key": "up/img_mwdfax36cef533_t.jpg",
+     "image_type": "Photo",
+     "caption": "Eel Trap Entry from inside, with the brass River Line inlay in the stone paving",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfaxkr49a3e6",
+     "key": "up/img_mwdfaxkr49a3e6.jpg",
+     "thumb_key": "up/img_mwdfaxkr49a3e6_t.jpg",
+     "image_type": "Detail",
+     "caption": "Brass inlay between lighter and darker stone paving forming the River Line",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfay8847117e",
+     "key": "up/img_mwdfay8847117e.jpg",
+     "thumb_key": "up/img_mwdfay8847117e_t.jpg",
+     "image_type": "Detail",
+     "caption": "Perforated brass-toned panels with integrated lighting above the River Line paving",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfayoja8d5d2",
+     "key": "up/img_mwdfayoja8d5d2.jpg",
+     "thumb_key": "up/img_mwdfayoja8d5d2_t.jpg",
+     "image_type": "Photo",
+     "caption": "Eel Trap Entry looking through the laneway, with patterned soffit beyond",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfaz4c76d21d",
+     "key": "up/img_mwdfaz4c76d21d.jpg",
+     "thumb_key": "up/img_mwdfaz4c76d21d_t.jpg",
+     "image_type": "Photo",
+     "caption": "Brick street facade at 51 Flinders Lane with the Eel Trap Entry arch",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfazoh310b60",
+     "key": "up/img_mwdfazoh310b60.jpg",
+     "thumb_key": "up/img_mwdfazoh310b60_t.jpg",
+     "image_type": "Detail",
+     "caption": "Perforated panels and River Line paving (duplicate view)",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb01vb54a8f",
+     "key": "up/img_mwdfb01vb54a8f.jpg",
+     "thumb_key": "up/img_mwdfb01vb54a8f_t.jpg",
+     "image_type": "Photo",
+     "caption": "Eel Trap Entry interior (duplicate view)",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb0c9d7041b",
+     "key": "up/img_mwdfb0c9d7041b.jpg",
+     "thumb_key": "up/img_mwdfb0c9d7041b_t.jpg",
+     "image_type": "Detail",
+     "caption": "River Grasses Gate with etched plant forms and cross-bracing diamond forms",
+     "credit": "Image provided by GPT",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb0r18f7445",
+     "key": "up/img_mwdfb0r18f7445.jpg",
+     "thumb_key": "up/img_mwdfb0r18f7445_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb17u8334e2",
+     "key": "up/img_mwdfb17u8334e2.jpg",
+     "thumb_key": "up/img_mwdfb17u8334e2_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb1hg905e0e",
+     "key": "up/img_mwdfb1hg905e0e.jpg",
+     "thumb_key": "up/img_mwdfb1hg905e0e_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb1u0fe14dc",
+     "key": "up/img_mwdfb1u0fe14dc.jpg",
+     "thumb_key": "up/img_mwdfb1u0fe14dc_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb23s92580e",
+     "key": "up/img_mwdfb23s92580e.jpg",
+     "thumb_key": "up/img_mwdfb23s92580e_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb2dx511764",
+     "key": "up/img_mwdfb2dx511764.jpg",
+     "thumb_key": "up/img_mwdfb2dx511764_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb2ndb12538",
+     "key": "up/img_mwdfb2ndb12538.jpg",
+     "thumb_key": "up/img_mwdfb2ndb12538_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb2xq3ecdca",
+     "key": "up/img_mwdfb2xq3ecdca.jpg",
+     "thumb_key": "up/img_mwdfb2xq3ecdca_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb39f7b1255",
+     "key": "up/img_mwdfb39f7b1255.jpg",
+     "thumb_key": "up/img_mwdfb39f7b1255_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb3l5eeb35b",
+     "key": "up/img_mwdfb3l5eeb35b.jpg",
+     "thumb_key": "up/img_mwdfb3l5eeb35b_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
+    },
+    {
+     "id": "img_mwdfb3uq14b7c4",
+     "key": "up/img_mwdfb3uq14b7c4.jpg",
+     "thumb_key": "up/img_mwdfb3uq14b7c4_t.jpg",
+     "image_type": "Photo",
+     "caption": "",
+     "credit": "Ed",
+     "source_url": "",
+     "primary": false
     }
    ],
    "added_by": "Ed",
    "approved_by": "Ed",
    "added": "2026-11-09",
-   "updated": "2026-11-09",
+   "updated": "2026-11-12",
    "edited_by": "Ed",
    "history": [
     {
@@ -1328,10 +1523,12 @@
      "date": "2026-11-09",
      "by": "Ed",
      "what": "updated from inbox (sent by Ed)"
+    },
+    {
+     "date": "2026-11-12",
+     "by": "Ed",
+     "what": "updated from inbox (sent by Ed)"
     }
-   ],
-   "material_details": [
-    "Steel"
    ]
   },
   {
