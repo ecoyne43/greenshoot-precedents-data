@@ -855,7 +855,7 @@
    "country": "Australia",
    "country_to": "Kulin Nation (Wurundjeri, Bunurong and Boon Wurrung Traditional Owners named for the wider Whitten Oval redevelopment; Wurundjeri man Thane Garvey led the opening smoking ceremony)",
    "year_completed": "2026",
-   "architect": "Jefa Greenaway (Wailwan/Kamilaroi man), in partnership with Greenshoot Consulting",
+   "architect": "Greenshoot Consulting with Jefa Greenaway",
    "landscape_architect": "",
    "artists": "",
    "first_peoples_collaborators": "Greenshoot Consulting (cultural and historical mapping, Traditional Owner engagement); Jefa Greenaway (Wailwan/Kamilaroi); Traditional Owners of the land on which the Club resides (consulted); Wurundjeri, Bunurong and Boon Wurrung Elders (workshops for the wider redevelopment); Thane Garvey (Wurundjeri man, led the smoking ceremony)",
@@ -895,6 +895,7 @@
      "Stone",
      "Metal"
     ],
+    "medium": [],
     "programme": [
      "Public Programs + Events",
      "Ceremony Space"
@@ -904,6 +905,10 @@
      "Consulted"
     ]
    },
+   "material_details": [
+    "Steel"
+   ],
+   "depth": "full",
    "tags": [
     "yarning circle",
     "bluestone",
@@ -951,7 +956,7 @@
    "added_by": "Ed",
    "approved_by": "Ed",
    "added": "2026-11-08",
-   "updated": "2026-11-08",
+   "updated": "2026-11-12",
    "edited_by": "Ed",
    "history": [
     {
@@ -963,10 +968,12 @@
      "date": "2026-11-08",
      "by": "Ed",
      "what": "updated from inbox (sent by Ed)"
+    },
+    {
+     "date": "2026-11-12",
+     "by": "Ed",
+     "what": "edited"
     }
-   ],
-   "material_details": [
-    "Steel"
    ]
   },
   {
